@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is **Grace**, I am a student at **San Diego State University**.
-- 👩🏼‍💻 Majoring in **Computer Science** and minoring in **Mathematics**
+- 👩🏼‍💻 Majoring in **Computer Science** and minoring in **Mathematics**.
 - 🔬 Part of the **AI4Business** research lab. 
 - 🚀 Happy to collaborate on any exciting projects. 
 <!--
